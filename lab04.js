@@ -3,6 +3,12 @@ while (!(color== 'black' || color=='red')){
 color=prompt('please choose only black or red')
 }
 var username = prompt('What is your name');
+function greeting (username, color){
+    alert('your name is  ' + username + color);
+
+}
+greeting (username, '  welome')
+
 alert ('Welcome' + ' ' + username);
 document.write(color + ' is nice')
 var Image;
