@@ -1,0 +1,25 @@
+html{
+background-color: blue;
+
+}
+
+main section h2{
+    text-align: center;
+    background-color: darkblue;
+}
+
+header nav p {
+    list-style: none;
+}
+
+main section ol article{
+    margin: 20px;
+}
+
+main section ol img{
+    margin: 30px 0 0 0;
+}
+
+#lab03b{
+    color: salmon;
+}
